@@ -13,4 +13,5 @@ Normal estimation and Poission surface reconstruction post-processing.
 Next steps: .stl export and improve masking/trimming capabilities to prevent skirts/cliff artifacts
 
 
-VIDEO DEMO: 
+VIDEO DEMO: https://www.youtube.com/watch?v=FYSkF9jrOlM
+
